@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Exercise.Football": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\cnwpa4\\source\\repos\\Exercise.Football\\Exercise.Football\\football.csv"
+    }
+  }
+}
